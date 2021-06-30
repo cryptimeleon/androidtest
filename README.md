@@ -1,4 +1,4 @@
-![Build Status](https://github.com/cryptimeleon/math/workflows/Android%20Compatiblity%20Tests/badge.svg)
+[![Android Compatiblity Tests](https://github.com/cryptimeleon/androidtest/actions/workflows/android-tests.yaml/badge.svg)](https://github.com/cryptimeleon/androidtest/actions/workflows/android-tests.yaml)
 
 ## androidtest
 

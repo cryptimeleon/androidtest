@@ -1,6 +1,9 @@
-name: Android Compatiblity Tests
+name: Android Compatibility Tests
 
 on:
+  push:
+    branches:
+      - main
   # Nightly builds to ensure dependencies don't break anything
   schedule:
     - cron: '0 0 * * *'
